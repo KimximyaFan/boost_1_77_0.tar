@@ -7,3 +7,7 @@ wget https://boostorg.jfrog.io/artifactory/main/release/1.77.0/source/boost_1_77
 tar xfj boost_1_77_0.tar.bz2
 
 위 명령어가 안되염
+
+
+출처는 아래와 같음
+https://sourceforge.net/projects/boost/files/boost/1.77.0/boost_1_77_0.tar.bz2/download
